@@ -2,3 +2,4 @@ my study
 
 git is a free software 
 test again 
+4 continuous integration
